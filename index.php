@@ -18,14 +18,14 @@ include 'menu.html'; ?>
                 November 7, 2019 -Lee Elementary Science Discovery Night with Growing Up STEM
                 <br>Growing Up STEM hosted its second Science Night at Lee Elementary for students grades K-5, featuring new exciting experiments, including Elephant Toothpaste and Ice Cream!
             </p>
-                <a href = "about.php" class ="button button1">Read More</a>
+                <a href = "events.php" class ="button button1">Read More</a>
 
                 <hr>
 
                 October 18, 2019 -Growing Up STEM hosts first event of the 2019-2020 school year: Hands-On Science Night at Weaver Elementary
                 <br>Our Family Science Night was a great success! With the assistance of Los Alamitos High School science students, Weaver students from Kindergarten to 5th Grade participated in a variety of hands-on science experiments, including Oobleck, Lemon-and-Baking Soda volcanos, and Dry Ice Bubbles!
             </p>
-                <a href = "about.php" class = "button button1">Read More</a>
+                <a href = "events.php" class = "button button1">Read More</a>
 
             </div>
 
