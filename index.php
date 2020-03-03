@@ -17,8 +17,8 @@ include 'menu.html'; ?>
             <p>
                 November 7, 2019 -Lee Elementary Science Discovery Night with Growing Up STEM
                 <br>Growing Up STEM hosted its second Science Night at Lee Elementary for students grades K-5, featuring new exciting experiments, including Elephant Toothpaste and Ice Cream!
-            </p
-                <a href = "about.php" class = "button button1">Read More</a>
+            </p>
+                <a href = "about.php" class ="button button1">Read More</a>
 
                 <hr>
 
